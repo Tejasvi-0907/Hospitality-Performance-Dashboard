@@ -6,14 +6,14 @@ This project presents an interactive Power BI dashboard built to analyze the per
 - Performance by booking platform, city, and room class
 - Cancellation rates and customer ratings
 - Week-on-week changes in KPIs and trends over time
-
+- 
 ## Key Insights
 - Processed and analyzed over **1709M revenue records**
 - Identified that **Luxury category** contributed 61.6% of total revenue
 - Weekday vs Weekend analysis showed **22% higher occupancy on weekends**
 - Platform-wise insights helped **improve realization % by up to 20%**
 - Cancellation rate monitoring across 7 booking platforms
-
+- 
 ## Dashboard Features
 - Dynamic filters by **city**, **room class**, and **date**
 - Donut charts, line graphs, bar + line combo visuals
